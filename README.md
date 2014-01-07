@@ -1,7 +1,7 @@
 CSS animation utilities
 =======================
 
-A place for useful JavaScript snippets related to CSS animation.
+A collection of useful JavaScript snippets related to CSS animation.
 
 `isAnimationSupported`
 ----------------------
